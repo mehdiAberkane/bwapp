@@ -18,8 +18,8 @@ bWAPP is licensed under a Creative Commons Attribution-NonCommercial-NoDerivativ
 
 // Database connection settings
 $db_server = "localhost";
-$db_username = "root";
-$db_password = "bug";
+$db_username = "chevre";
+$db_password = "chevre";
 $db_name = "bWAPP";
 
 // SQLite database name
