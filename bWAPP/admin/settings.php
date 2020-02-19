@@ -17,7 +17,7 @@ bWAPP is licensed under a Creative Commons Attribution-NonCommercial-NoDerivativ
 */
 
 // Database connection settings
-$db_server = "localhost";
+$db_server = "127.0.0.1";
 $db_username = "chevre";
 $db_password = "chevre";
 $db_name = "bWAPP";
